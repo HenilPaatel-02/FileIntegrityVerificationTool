@@ -1,0 +1,5 @@
+This is a test file for digital forensics integrity verification.
+
+Tampered content for testing.
+
+Tampered content for testing.
