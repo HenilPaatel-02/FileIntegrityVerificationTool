@@ -29,11 +29,6 @@ Select:
 1️⃣ Create baseline
 2️⃣ Verify integrity
 
-📊 Example Output
-🖥️ Console Output
-<p align="center"> <img src="./screenshots/console_output.png" width="700" alt="Console Output Screenshot"></p>
-📈 Integrity Summary (Pie Chart)
-<p align="center"> <img src="./screenshots/integrity_summary.png" width="700" alt="Integrity Summary Chart"></p>
 📁 Example Files Generated
 
 baseline_report.json — stores original hash values
